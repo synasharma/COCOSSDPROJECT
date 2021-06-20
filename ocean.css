@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Staatliches', cursive;
+}
+
+h1{
+    font-size:50px;
+}
+#status
+{
+    font-size:20px;
+}
+.home
+{
+    float:left;
+    font-size:25px;
+    margin-top:-165px;
+   
+}
